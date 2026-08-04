@@ -308,7 +308,7 @@ The general log files for Ethernet/IP (enip.log) and CIP (cip.log) contain basic
 
 ### Detailed Logging
 
-Detailed logging for 1 Ethernet/IP command is logged in the CIP identity log file (cip_identity.log). The other 9 Ethernet/IP commands do not contain detailed logging, therefore 10% (1/10) of the Ethernet/IP commands contain detailed logging.
+Detailed logging for 1 Ethernet/IP command is logged in the CIP identity log file (cip_identity.log). The other 10 Ethernet/IP commands do not contain detailed logging, therefore ~9% (1/11) of the Ethernet/IP commands contain detailed logging.
 
 There is currently no (0%) detailed logging for regular CIP services outside of the CIP general/header log file (cip.log).
 
